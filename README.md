@@ -1,5 +1,7 @@
 # dsh-windows-account-isolation
 
+[English](README.en.md) | 中文
+
 在 Windows 上把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 放到一个独立的本地账户里运行，
 让它只能访问你指定的项目目录。
 
