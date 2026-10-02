@@ -1,0 +1,16 @@
+# 日志和自测产物
+*.log
+_selftest/
+verify/
+
+# 编辑器 / 系统文件
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# 如果你改成在整个工作区建仓库，还得把凭据和会话记录加进来：
+# .credentials.yaml
+# dsh-ssh.json
+# sessions/
+# attachments/
