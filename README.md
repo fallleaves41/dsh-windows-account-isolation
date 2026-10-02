@@ -1,5 +1,7 @@
 # dsh-windows-account-isolation
 
+[![release](https://img.shields.io/github/v/release/fallleaves41/dsh-windows-account-isolation?color=blue)](https://github.com/fallleaves41/dsh-windows-account-isolation/releases)
+
 [English](README.en.md) | 中文
 
 在 Windows 上把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 放到一个独立的本地账户里运行，

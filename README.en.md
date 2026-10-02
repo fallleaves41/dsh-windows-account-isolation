@@ -1,5 +1,7 @@
 # dsh-windows-account-isolation
 
+[![release](https://img.shields.io/github/v/release/fallleaves41/dsh-windows-account-isolation?color=blue)](https://github.com/fallleaves41/dsh-windows-account-isolation/releases)
+
 Run [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) in a dedicated local Windows account,
 so it can only touch the project directory you allow.
 
